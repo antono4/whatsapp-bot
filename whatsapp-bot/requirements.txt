@@ -1,0 +1,4 @@
+# WhatsApp Bot Dependencies
+webhooks==1.1.0
+wiget>=2.1.4
+pyyaml>=6.0
