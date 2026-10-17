@@ -1,1 +1,26 @@
-Last updated: 2026-10-17 08:36:20 WIB
+# whatsapp-bot
+
+
+
+## 📋 Overview
+
+This repository contains **17 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-17 08:38:58 WIB*
